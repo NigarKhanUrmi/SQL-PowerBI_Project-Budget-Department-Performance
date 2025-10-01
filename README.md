@@ -62,6 +62,7 @@ Connect Power BI to your SQL Server instance.
 
 Use filters (Employee ID, Department, Status) to explore insights interactively.
 
+##Open the PDF file for easy access of the visualization report. ##
 
 📌 Future Improvements
 
